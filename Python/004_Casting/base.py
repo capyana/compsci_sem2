@@ -1,0 +1,5 @@
+luca=int(4)
+kevin=int(2)
+print("Your first number is "+str(luca))
+print("Your first number is "+str(kevin))
+print("Your product is "+str(luca*kevin))
